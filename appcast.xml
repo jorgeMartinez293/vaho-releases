@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>vaho</title>
+        <item>
+            <title>1.2</title>
+            <pubDate>Wed, 08 Jul 2026 09:11:45 +0200</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jorgeMartinez293/vaho-releases/releases/latest/download/vaho-1.2.zip" length="5077917" type="application/octet-stream" sparkle:edSignature="LlNzL00VXh+Xilv6kfHdbaElAeR3S21NbqRayAX/zq18J+HDsCuR9Ug3kgAocd3u/mzBwwvwli2XeKit+rU3Aw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jorgeMartinez293/vaho-releases/releases/latest/download/vaho5-4.delta" sparkle:deltaFrom="4" length="807582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZaSTbGwqaZpHJ6fLWC5yoveWB1xFjhqmDI0XL6HvFjh2aPv9c3lBViYPryrHSp8RzuoMq7fDSaE2BNXHfIhVCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.1</title>
+            <pubDate>Wed, 08 Jul 2026 01:00:09 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jorgeMartinez293/vaho-releases/releases/latest/download/vaho-1.1.zip" length="4959897" type="application/octet-stream" sparkle:edSignature="OLyyRcv5MmkZlXQPvsw9cAa3K/N6SGRuIkvC2hvxv7Jue/g4xHHe9bvfl8ilU9gbi2MKt1RFBRrQruV/n2QtAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jorgeMartinez293/vaho-releases/releases/latest/download/vaho4-3.delta" sparkle:deltaFrom="3" length="7278" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9x2KHAU00pyK6rVnp8VpOI3oVmKtC81sEimSzEsTCy6evigw6sL3eKw22w3w1HjKuc51EjZuY+Fzp4c824/yDQ=="/>
+            </sparkle:deltas>
+        </item>
+    </channel>
+</rss>
