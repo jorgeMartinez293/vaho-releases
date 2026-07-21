@@ -3,6 +3,21 @@
     <channel>
         <title>vaho</title>
         <item>
+            <title>1.13</title>
+            <pubDate>Tue, 21 Jul 2026 15:26:52 +0200</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jorgeMartinez293/vaho-releases/releases/latest/download/vaho-1.13.zip" length="6950722" type="application/octet-stream" sparkle:edSignature="AT1zldaqkHgMlRi73tohcqxj3xU3MGGpOo7SPG4T0w5k/Zsok5HksAuScQV1r9VwLrSj50blqh5ytQ7fLomGDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jorgeMartinez293/vaho-releases/releases/latest/download/vaho16-15.delta" sparkle:deltaFrom="15" length="1524046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NeIXmCYnPJgoptDoAVGFExJ7+bBpph4tnAg+V0Ls0oru9YvgMrkmyH+mrmNix8jRRdP6C/sVNaIAczY6e4kEAw=="/>
+                <enclosure url="https://github.com/jorgeMartinez293/vaho-releases/releases/latest/download/vaho16-14.delta" sparkle:deltaFrom="14" length="1950094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GJrDFMNqXnCE88+SwLrtR2me7+saNoDmXrW0ZJMmU+2SayAfLHZSCn+FiszYF+iONV6RVqtTs8tEWA/D+DW3Dg=="/>
+                <enclosure url="https://github.com/jorgeMartinez293/vaho-releases/releases/latest/download/vaho16-13.delta" sparkle:deltaFrom="13" length="2045770" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5Juv2j+MckDJ8cwSnnjhMGTOS0+L8USCTGZ6tN2U1yzA22ziIi9BPe8CeJVa2ibiEZgQTttVt2Socgf6k6ylBg=="/>
+                <enclosure url="https://github.com/jorgeMartinez293/vaho-releases/releases/latest/download/vaho16-12.delta" sparkle:deltaFrom="12" length="2041922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5aj+TY+bn2jjMBN+6S8KGyamgUQ3q4EBL2HBDpemNkg5mugFfc33RKRNUi5gOzUotyfdFALHKCgEVz8otSCOAA=="/>
+                <enclosure url="https://github.com/jorgeMartinez293/vaho-releases/releases/latest/download/vaho16-11.delta" sparkle:deltaFrom="11" length="2078166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ee4DpGPPpBxF478/rjxH4F1fJGpRrPeNYQAutt6sbm2HNOvkG3aT8kuePoMBgeaUnwMbLhcLRvve15iSl7JRCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.12</title>
             <pubDate>Sat, 18 Jul 2026 18:38:58 +0200</pubDate>
             <sparkle:version>15</sparkle:version>
@@ -30,21 +45,6 @@
                 <enclosure url="https://github.com/jorgeMartinez293/vaho-releases/releases/latest/download/vaho14-11.delta" sparkle:deltaFrom="11" length="1669110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="btUDPtfaHLQOGXQaUCV6IfA6IfcEc04VxxmiMfVw8cn21yk9CCgISjo0QUuxMIuUoZf8gGhYykHN9ChRLTO5Dg=="/>
                 <enclosure url="https://github.com/jorgeMartinez293/vaho-releases/releases/latest/download/vaho14-10.delta" sparkle:deltaFrom="10" length="1648998" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SBJ8z9rrvTJs+amq0sPv7LSso4Ovixdj35ia6lEicn57MdfrczP7OpGcEiVRK4x6EreQvM9EBsYEDus/IzxsAA=="/>
                 <enclosure url="https://github.com/jorgeMartinez293/vaho-releases/releases/latest/download/vaho14-9.delta" sparkle:deltaFrom="9" length="1892902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cOP68UH6T6HojrLG/rWxHTQw9KzktfNH01VD4IkehzIO0b895NZmnSSh4OacIKMShu2XbfcyOPiM0brmuRgiCw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.10</title>
-            <pubDate>Tue, 14 Jul 2026 14:33:52 +0200</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jorgeMartinez293/vaho-releases/releases/latest/download/vaho-1.10.zip" length="6752108" type="application/octet-stream" sparkle:edSignature="6sz3hFPyriXXDL+i4i47b6F/g09UjZoMCkO6UfKrTIf5PmHyROh8eg/Uwzx9x7iYkPKLFEDB1oJXza203KpSAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/jorgeMartinez293/vaho-releases/releases/latest/download/vaho13-12.delta" sparkle:deltaFrom="12" length="951458" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TJ6cAOIBxRguGbRdpBestNcQ5yz55ZmTgLAxf2KiNI0Z4T6E1ApNC+2FCYuI/8ZaHMG0hdGTEi9VORC9JjonAA=="/>
-                <enclosure url="https://github.com/jorgeMartinez293/vaho-releases/releases/latest/download/vaho13-11.delta" sparkle:deltaFrom="11" length="1527226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6dLL5zbLPljLGgK0BeJsYU6EQqLNMircFUuU+I/QoocpOSuYHLU7pUi8Dvo0Dzb3hb+/yZYXwF+qSdIWlmDsCA=="/>
-                <enclosure url="https://github.com/jorgeMartinez293/vaho-releases/releases/latest/download/vaho13-10.delta" sparkle:deltaFrom="10" length="1547518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1BTwa4gZifG3neKFa8Q0JMJUsknQN5iUIWUji78dwtjk4dI5WrdjqxMVprabMHDGy8if2xosGfRONIl0jcsyCQ=="/>
-                <enclosure url="https://github.com/jorgeMartinez293/vaho-releases/releases/latest/download/vaho13-9.delta" sparkle:deltaFrom="9" length="1845982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="a0TsPik/gKHD/0cd03pfEcm6QhTlHjNeUCmJyOZTV6121mSPijK3bUbVhNP/o01cPIMHDvCLm92odyNOEQrtBA=="/>
-                <enclosure url="https://github.com/jorgeMartinez293/vaho-releases/releases/latest/download/vaho13-8.delta" sparkle:deltaFrom="8" length="3482486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+HoF83ty5x6nY5UeYj9Awf8XdWf/oRBqiiMRufLne3BEUAS1ev3sACsFz2udriLj/UnPCouSwPmuh8ckI6wcBw=="/>
             </sparkle:deltas>
         </item>
         <item>
